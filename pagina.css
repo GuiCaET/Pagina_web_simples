@@ -1,0 +1,32 @@
+.entrada{
+    text-align: center;
+    border-bottom: 2px dotted rgba(128, 128, 128, 0.5);
+}
+.legenda{
+    opacity: 0.9;
+}
+.bold{
+    font-weight: 800;
+}
+#textocentral{
+    border-bottom: 2px dotted rgba(128, 128, 128, 0.5);
+}
+.citar{
+    background-color: cadetblue;
+    margin: 15px;
+    padding: 20px;
+}
+.text{
+    font-size:30px;
+    font-family: sans-serif;
+}
+#curiosidades{
+    border-top: 2px dotted rgba(128, 128, 128, 0.5);
+    border-bottom: 2px dotted rgba(128, 128, 128, 0.5);
+}
+#final{
+    text-align: center;
+}
+#maisinformacoes{
+    padding-left: 55px;
+}
